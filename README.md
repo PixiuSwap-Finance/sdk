@@ -13,7 +13,7 @@ git clone https://github.com/PixiuSwap-Finance/sdk.git
 Move into the Pixiu-swap-sdk working directory
 
 ```sh
-cd Pixiu-swap-sdk/
+cd sdk/
 ```
 
 Install dependencies
